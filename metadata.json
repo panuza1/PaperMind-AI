@@ -1,0 +1,6 @@
+{
+  "name": "PaperMind AI",
+  "description": "AI-powered research paper assistant with drag-and-drop PDF extraction, structured summarization, verified page-referenced chat, multi-paper comparison, and research gap discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
